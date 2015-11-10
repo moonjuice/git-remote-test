@@ -1,15 +1,1 @@
-123456
-
-78910
-
-AAA123
-
-this is master.
-
-continue
-
-test status
-
-new remote commit
-
-new remote commit2
+delete all text.
