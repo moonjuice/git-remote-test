@@ -3,3 +3,5 @@ delete all text.
 add line2
 
 edit in master
+
+rebase test
