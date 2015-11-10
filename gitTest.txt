@@ -1,9 +1,6 @@
 delete all text.
 
---issue1
-
 add from master
 
 add line2
 
-++issue1
