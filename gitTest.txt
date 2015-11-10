@@ -11,3 +11,5 @@ continue
 test status
 
 new remote commit
+
+new remote commit2
